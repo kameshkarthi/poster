@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1039601930282-84viptbk19v53b66fuao85lrq1d0hrsg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1039601930282-84viptbk19v53b66fuao85lrq1d0hrsg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1039601930282-pdjv43nno5cdjepo4ilk6js3t9qssdsp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqJt-BKoWkQir3D_qwJt97w5t-Zvriew0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1039601930282</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mecho.wallpaper</string>
+	<key>PROJECT_ID</key>
+	<string>wallstone-2b323</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wallstone-2b323.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1039601930282:ios:6fdfc2610d25edec93f353</string>
+	<key>DATABASE_URL</key>
+	<string>https://wallstone-2b323.firebaseio.com</string>
+</dict>
+</plist>
